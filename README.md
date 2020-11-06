@@ -1,7 +1,6 @@
 # courses-app
 
 ## install 
-------------------
 npm install --save react-native-vector-icons
 
 npm install @react-navigation/native
