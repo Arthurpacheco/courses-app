@@ -1,4 +1,4 @@
-# courses-app
+# Aplicativo de cursos online
 
 ## install 
 npm install --save react-native-vector-icons
